@@ -1,2 +1,6 @@
 # datasciencecoursera
 Assignment one
+Hello World,
+I am struggling with pushing the HelloWorld txt file to github.
+so I am editing all here....
+Step by step we will learn...
